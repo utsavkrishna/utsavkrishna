@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Web Development.
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning Java ,and Web Dev.
 - 🤔 I’m looking for help with Andriod development.
 - 💬 Ask me about Web Dev.
 - 📫 How to reach me: utsavkrishnapandey@yahoo.com
